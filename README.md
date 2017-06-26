@@ -17,16 +17,12 @@ Here is what this gem considers valid
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'email_validator'
+gem 'email_validator', github: 'jwald200/email_validator'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install email_validator
 
 ## Usage
 
